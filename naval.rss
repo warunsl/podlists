@@ -228,5 +228,32 @@
          <itunes:episode>11</itunes:episode>
          <itunes:episodeType>full</itunes:episodeType>
       </item>
+
+      <item>
+         <guid isPermaLink="false">tag:soundcloud,2010:tracks/307685046</guid>
+         <title>Ep 06: Naval Ravikant - A monk in the Valley, tells us he's ruthless about time</title>
+         <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+         <link>https://soundcloud.com/factordaily/ep-06-naval-ravikant-angellist</link>
+         <itunes:duration>00:45:51</itunes:duration>
+         <itunes:author>FactorDaily</itunes:author>
+         <itunes:explicit>no</itunes:explicit>
+         <itunes:summary>In this episode of Outliers, Naval Ravikant of AngelList talks about philosophical life lessons based on his own entrepreneurial journey and his observation of several founders and investors over the years.
+
+            *This podcast was recorded over the phone, hence the audio might sound a bit feeble and low. Sorry for this.
+
+            Produced by Anand Murali
+
+            Music Credit: www.accelerated-ideas.com/</itunes:summary>
+         <itunes:subtitle>In this episode of Outliers, Naval Ravikant of An…</itunes:subtitle>
+         <description>In this episode of Outliers, Naval Ravikant of AngelList talks about philosophical life lessons based on his own entrepreneurial journey and his observation of several founders and investors over the years.
+
+            *This podcast was recorded over the phone, hence the audio might sound a bit feeble and low. Sorry for this.
+
+            Produced by Anand Murali
+
+            Music Credit: www.accelerated-ideas.com/</description>
+         <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/307685046-factordaily-ep-06-naval-ravikant-angellist.mp3" length="88945136"/>
+         <itunes:image href="http://i1.sndcdn.com/artworks-000207886185-dvbcqh-original.jpg"/>
+       </item>
    </channel>
 </rss>
